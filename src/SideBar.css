@@ -1,0 +1,16 @@
+.sidebar {
+  flex: 0.2;/* Basically it means 20% from left of the page */
+  /* position: sticky;
+  background-color: white;
+  z-index: 100;
+  left: 0; */
+} 
+
+.sidebar > hr {
+  height: 1px;
+  border: 0;
+  background-color: lightgray;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+

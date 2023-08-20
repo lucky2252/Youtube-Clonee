@@ -1,0 +1,16 @@
+.recommendedvideos {
+  flex: 0.8; /* basically it means the 80% coverage of the page from the remaining left portion of it */
+  background-color: #f9f9f9;
+  padding: 40px 20px;
+  padding-bottom: 0;
+}
+
+.recommendedvideos > h2 {
+  margin-left: 5px;
+  margin-bottom: 20px;
+}
+
+.recommendedvideos_video {
+  display: flex;
+  flex-wrap: wrap;
+}
